@@ -1,4 +1,4 @@
-# jquery-template
+## imgur-wordstats
 
-Very minimal page template with jquery-1.9.1
-starting point for quick experiments and small games : )
+fun with ajax and imgur's api
+going to generate a word cloud of most commonly used words in a large set of imgur's comments
